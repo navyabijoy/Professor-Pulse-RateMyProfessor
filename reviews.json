@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Weller",
+        "subject": "Introduction to Psychology",
+        "stars": 4,
+        "review": "Dr. Weller is a fantastic professor. Her lectures are engaging and she really cares about her students' learning."
+      },
+      {
+        "professor": "Professor Michael Nguyen",
+        "subject": "Calculus I",
+        "stars": 3,
+        "review": "Professor Nguyen's class is challenging, but he is very helpful during office hours. The grading can be a bit harsh, however."
+      },
+      {
+        "professor": "Dr. Sophia Ramirez",
+        "subject": "Organic Chemistry",
+        "stars": 5,
+        "review": "Dr. Ramirez is an amazing professor. She explains complex topics clearly and is always available to help students. I highly recommend taking her class."
+      },
+      {
+        "professor": "Professor David Goldstein",
+        "subject": "Introduction to Computer Science",
+        "stars": 4,
+        "review": "Professor Goldstein's class is well-organized and he is very knowledgeable about the subject matter. The assignments can be time-consuming, but they are valuable learning experiences."
+      },
+      {
+        "professor": "Dr. Olivia Perez",
+        "subject": "Introductory Spanish",
+        "stars": 3,
+        "review": "Dr. Perez's class is a bit disorganized, and she can be difficult to understand at times. However, she is passionate about the subject and tries to make the class engaging."
+      },
+      {
+        "professor": "Professor William Chen",
+        "subject": "Principles of Economics",
+        "stars": 4,
+        "review": "Professor Chen is a great lecturer and he really makes the material interesting. The exams can be challenging, but he provides helpful review sessions."
+      },
+      {
+        "professor": "Dr. Isabella Montoya",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Montoya is an exceptional professor. Her lectures are fascinating, and she is always willing to assist students with their research and projects."
+      },
+      {
+        "professor": "Professor Ryan Brewer",
+        "subject": "Introduction to Biology",
+        "stars": 3,
+        "review": "Professor Brewer's class is a bit dry, and the lectures can be difficult to follow. However, he is knowledgeable about the subject matter and the labs are well-designed."
+      },
+      {
+        "professor": "Dr. Evelyn Lam",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. Lam is a passionate and engaging professor. The course material is challenging, but she provides plenty of support and resources to help students succeed."
+      },
+      {
+        "professor": "Professor Ethan Gonzalez",
+        "subject": "American History",
+        "stars": 4,
+        "review": "Professor Gonzalez is a knowledgeable and enthusiastic lecturer. His classes are well-structured, and he is always open to answering questions and providing additional resources."
+      },
+      {
+        "professor": "Dr. Avery Nguyen",
+        "subject": "Quantum Mechanics",
+        "stars": 5,
+        "review": "Dr. Nguyen is an exceptional professor who truly cares about her students' understanding of the material. Her lectures are clear and engaging, and she is always available to provide additional support."
+      },
+      {
+        "professor": "Professor Liam Flores",
+        "subject": "Introduction to Sociology",
+        "stars": 4,
+        "review": "Professor Flores' lectures are thought-provoking and he encourages class discussions. The workload is manageable, and he provides helpful feedback on assignments."
+      },
+      {
+        "professor": "Dr. Ella Kim",
+        "subject": "Molecular Biology",
+        "stars": 3,
+        "review": "Dr. Kim's class is quite demanding, but she is knowledgeable about the subject matter. The grading can be inconsistent, and the pace of the course can be challenging for some students."
+      },
+      {
+        "professor": "Professor Aiden Sanchez",
+        "subject": "Introduction to Philosophy",
+        "stars": 4,
+        "review": "Professor Sanchez is a passionate and engaging lecturer. The course material is thought-provoking, and he encourages students to participate in discussions."
+      },
+      {
+        "professor": "Dr. Jasmine Nguyen",
+        "subject": "Intermediate Accounting",
+        "stars": 4,
+        "review": "Dr. Nguyen is a knowledgeable and dedicated professor. Her lectures are well-organized, and she provides plenty of practice problems to help students understand the material."
+      },
+      {
+        "professor": "Professor Ethan Patel",
+        "subject": "Introduction to Marketing",
+        "stars": 3,
+        "review": "Professor Patel's class is interesting, but he can be a bit disorganized at times. The workload is manageable, but the grading can be inconsistent."
+      },
+      {
+        "professor": "Dr. Isabelle Zhao",
+        "subject": "Developmental Psychology",
+        "stars": 5,
+        "review": "Dr. Zhao is an exceptional professor who is passionate about the subject matter. Her lectures are engaging and she provides plenty of opportunities for class discussion and hands-on learning."
+      },
+      {
+        "professor": "Professor Noah Hernandez",
+        "subject": "Introduction to Political Science",
+        "stars": 4,
+        "review": "Professor Hernandez is a knowledgeable and approachable lecturer. The course material is interesting, and he encourages students to think critically about the topics covered."
+      },
+      {
+        "professor": "Dr. Avery Ramos",
+        "subject": "Discrete Mathematics",
+        "stars": 4,
+        "review": "Dr. Ramos is a challenging but fair professor. The course material is difficult, but he provides plenty of support and resources to help students succeed."
+      },
+      {
+        "professor": "Professor Olivia Diaz",
+        "subject": "Introductory Physics",
+        "stars": 3,
+        "review": "Professor Diaz's lectures can be difficult to follow at times, and the workload is quite heavy. However, she is knowledgeable about the subject matter and is willing to provide additional assistance to students."
+      }
+    ]
+  }
